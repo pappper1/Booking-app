@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Hilton",
+    "location": "New York",
+    "services": [
+      "wifi",
+      "pool",
+      "restaurant"
+    ],
+    "rooms_quantity": 300,
+    "image_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Marriott",
+    "location": "Los Angeles",
+    "services": [
+      "wifi",
+      "gym",
+      "spa"
+    ],
+    "rooms_quantity": 200,
+    "image_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Sheraton",
+    "location": "Chicago",
+    "services": [
+      "wifi",
+      "parking",
+      "conference room"
+    ],
+    "rooms_quantity": 150,
+    "image_id": 3
+  },
+  {
+    "id": 4,
+    "name": "Hyatt",
+    "location": "San Francisco",
+    "services": [
+      "wifi",
+      "bar",
+      "business center"
+    ],
+    "rooms_quantity": 180,
+    "image_id": 4
+  },
+  {
+    "id": 5,
+    "name": "Radisson",
+    "location": "Miami",
+    "services": [
+      "wifi",
+      "beach access",
+      "room service"
+    ],
+    "rooms_quantity": 250,
+    "image_id": 5
+  }
+]

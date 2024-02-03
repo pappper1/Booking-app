@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "hotel_id": 1,
+    "name": "Standard Room",
+    "description": "Cozy standard room with a view",
+    "price": 150,
+    "services": [
+      "wifi",
+      "tv"
+    ],
+    "quantity": 100,
+    "image_id": 201
+  },
+  {
+    "id": 2,
+    "hotel_id": 1,
+    "name": "Suite",
+    "description": "Luxurious suite with city view",
+    "price": 300,
+    "services": [
+      "wifi",
+      "balcony",
+      "minibar"
+    ],
+    "quantity": 50,
+    "image_id": 202
+  },
+  {
+    "id": 6,
+    "hotel_id": 1,
+    "name": "Deluxe Room",
+    "description": "Spacious room with modern amenities",
+    "price": 200,
+    "services": [
+      "wifi",
+      "city view",
+      "king-size bed"
+    ],
+    "quantity": 70,
+    "image_id": 206
+  },
+  {
+    "id": 7,
+    "hotel_id": 1,
+    "name": "Family Suite",
+    "description": "Suite suitable for families with children",
+    "price": 350,
+    "services": [
+      "wifi",
+      "connecting rooms",
+      "child-friendly"
+    ],
+    "quantity": 40,
+    "image_id": 207
+  },
+  {
+    "id": 3,
+    "hotel_id": 2,
+    "name": "Double Room",
+    "description": "Spacious room with double beds",
+    "price": 180,
+    "services": [
+      "wifi",
+      "cable TV"
+    ],
+    "quantity": 80,
+    "image_id": 203
+  },
+  {
+    "id": 4,
+    "hotel_id": 2,
+    "name": "Executive Suite",
+    "description": "Executive suite with work desk",
+    "price": 400,
+    "services": [
+      "wifi",
+      "jacuzzi",
+      "room service"
+    ],
+    "quantity": 30,
+    "image_id": 204
+  },
+  {
+    "id": 8,
+    "hotel_id": 2,
+    "name": "Queen Room",
+    "description": "Room with queen-size bed and city view",
+    "price": 220,
+    "services": [
+      "wifi",
+      "city view",
+      "queen-size bed"
+    ],
+    "quantity": 90,
+    "image_id": 208
+  },
+  {
+    "id": 9,
+    "hotel_id": 2,
+    "name": "Standard Double",
+    "description": "Standard room with two double beds",
+    "price": 180,
+    "services": [
+      "wifi",
+      "cable TV",
+      "double beds"
+    ],
+    "quantity": 60,
+    "image_id": 209
+  },
+  {
+    "id": 5,
+    "hotel_id": 3,
+    "name": "King Room",
+    "description": "Room with king-size bed",
+    "price": 200,
+    "services": [
+      "wifi",
+      "breakfast included"
+    ],
+    "quantity": 60,
+    "image_id": 205
+  },
+  {
+    "id": 10,
+    "hotel_id": 3,
+    "name": "Junior Suite",
+    "description": "Suite with separate living area",
+    "price": 280,
+    "services": [
+      "wifi",
+      "living room",
+      "suite"
+    ],
+    "quantity": 50,
+    "image_id": 210
+  },
+  {
+    "id": 11,
+    "hotel_id": 3,
+    "name": "Economy Room",
+    "description": "Affordable room with basic amenities",
+    "price": 120,
+    "services": [
+      "wifi",
+      "standard amenities"
+    ],
+    "quantity": 100,
+    "image_id": 211
+  },
+  {
+    "id": 12,
+    "hotel_id": 4,
+    "name": "Presidential Suite",
+    "description": "Luxurious suite with panoramic view",
+    "price": 600,
+    "services": [
+      "wifi",
+      "panoramic view",
+      "king-size bed"
+    ],
+    "quantity": 20,
+    "image_id": 212
+  },
+  {
+    "id": 13,
+    "hotel_id": 4,
+    "name": "Executive Room",
+    "description": "Room with workspace for business travelers",
+    "price": 250,
+    "services": [
+      "wifi",
+      "workspace",
+      "king-size bed"
+    ],
+    "quantity": 80,
+    "image_id": 213
+  }
+]

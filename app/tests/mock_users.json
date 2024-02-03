@@ -1,0 +1,27 @@
+[
+  {
+    "email": "john@example.com",
+    "id": 1128,
+    "hashed_password": "hashed_password_1"
+  },
+  {
+    "email": "emma@example.com",
+    "id": 2891,
+    "hashed_password": "hashed_password_2"
+  },
+  {
+    "email": "chris@example.com",
+    "id": 3988,
+    "hashed_password": "hashed_password_3"
+  },
+  {
+    "email": "sarah@example.com",
+    "id": 4987,
+    "hashed_password": "hashed_password_4"
+  },
+  {
+    "email": "user@example.com",
+    "id": 7987,
+    "hashed_password": "$2b$12$KfbOLxfxW7kk/UElumKyZOwr5wpNfC9cKH5AdkU/mpKJcKdc2hsxK"
+  }
+]
