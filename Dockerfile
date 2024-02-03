@@ -1,5 +1,7 @@
 FROM python:3.11
 
+EXPOSE 8000
+
 RUN mkdir /booking
 
 WORKDIR /booking
